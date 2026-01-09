@@ -2,10 +2,7 @@
 
 ## Project Description: Noise Analysis in Sensor Data Using Experimental Simulation
 
-In this project, noise variations are analyzed using simulated sensor measurements.
-A clean signal is generated, and different types of noise are added to this signal.
-The sensor measurement process is simulated, and the resulting noisy data are analyzed
-both graphically and statistically using Python.
+The project uses this method to generate data similar to sensor measurements. A clean signal is produced, and sensor values ​​are simulated by adding noise to the signal. Graphical and statistical analysis and evaluation are also obtained using Python.
 
 ## Data Set / Data Source
 Noise measurements taken from simulated sensors are used in this study.
