@@ -10,6 +10,9 @@ The code was used to understand the methodology rather than to present an
 original contribution.This repository is intended as a learning and practice exercise.
 
 
+
+
+
 The project uses this method to generate data similar to sensor measurements. A clean signal is produced, and sensor values ​​are simulated by adding noise to the signal. Graphical and statistical analysis and evaluation are also obtained using Python.
 
 ## Data Set / Data Source
